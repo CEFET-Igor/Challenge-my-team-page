@@ -8,15 +8,15 @@
 
 <div align="center">
   <h3>
-    <a href='https://cefet-igor.github.io/Challenge-my-team-page'>
+    <a href='https://cefet-igor.github.io/Challenge-my-team-page' target="_blank">
       Demo
     </a>
     <span> | </span>
-    <a href="https://github.com/CEFET-Igor/Challenge-my-team-page">
+    <a href="https://github.com/CEFET-Igor/Challenge-my-team-page" target="_blank">
       Solution
     </a>
     <span> | </span>
-    <a href="https://devchallenges.io/challenges/hhmesazsqgKXrTkYkt0U">
+    <a href="https://devchallenges.io/challenges/hhmesazsqgKXrTkYkt0U" target="_blank">
       Challenge
     </a>
   </h3>
@@ -27,21 +27,33 @@
 ## Table of Contents
 
 - [Overview](#overview)
+  - [Descrição](#descrição)
+  - [Objetivo](#objetivo)
   - [Built With](#built-with)
 - [Features](#features)
 - [Contact](#contact)
-- [Acknowledgements](#acknowledgements)
 
 <!-- OVERVIEW -->
 
+<a name="Overview"></a>
 ## Overview
+
+
+<a name="Descrição"></a>
+### Descrição:
+Este projeto foi uma oportunidade emocionante de aplicar meu conhecimento e aprimorar minhas habilidades no mundo do desenvolvimento web.
+
+<a name="Objetivo"></a>
+### Objetivo:
+
+Aperfeiçoar minhas habilidades em HTML e CSS. Aprender a trabalhar com imagens e ferramentas responsivas.
+
+
 
 
 
 <a name="Built With"></a>
 ### Built With
-
-<!-- This section should list any major frameworks that you built your project using. Here are a few examples.-->
 
 - ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 - ![Css](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
