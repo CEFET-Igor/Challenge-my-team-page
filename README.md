@@ -8,7 +8,7 @@
 
 <div align="center">
   <h3>
-    <a href=https://cefet-igor.github.io/Challenge-my-team-page/">
+    <a href='https://cefet-igor.github.io/Challenge-my-team-page'>
       Demo
     </a>
     <span> | </span>
