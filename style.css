@@ -1,5 +1,5 @@
-@import url('https://fonts.googleapis.com/css2?family=Bellota+Text:wght@300&family=Inconsolata:wght@700&family=PT+Serif:wght@700&family=Space+Mono:wght@700&display=swap');
-@import url('https://fonts.googleapis.com/css2?family=Bellota+Text:wght@300&family=Inconsolata:wght@700&family=PT+Serif:wght@700&family=Poppins:wght@400;600&family=Space+Mono:wght@700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=PT+Serif:wght@400;700&family=Poppins:wght@400;600&family=Space+Mono:wght@700&display=swap');
+
 *{
     margin: 0;
     padding: 0;
@@ -67,14 +67,30 @@ main{
 }
 
 
+main div.img{
+    position: relative;
+}
+
 main div img{
     max-width: 264px;
     max-height: 383px;
 }
 
 main div p.vertical-text{
-    transform: rotate(90deg);
+    position: absolute;
+    top: 0px;
+    right: 0px;
+    rotate: 90deg;
     transform-origin: right bottom;
+    transform: translate(100%, -10px);
+
+    font-family: PT Serif;
+    font-size: 20px;
+    font-weight: 400;
+    line-height: 16px;
+    letter-spacing: 0em;
+    text-align: left;
+
 }
 
 footer{
