@@ -3,20 +3,20 @@
 <h1 align="center">My Team Page Challenge</h1>
 
 <div align="center">
-   Solution for a challenge from  <a href="http://devchallenges.io" target="_blank">Devchallenges.io</a>.
+   Solution for a challenge from  <a href="http://devchallenges.io" target="_blank" >Devchallenges.io</a>.
 </div>
 
 <div align="center">
   <h3>
-    <a href='https://cefet-igor.github.io/Challenge-my-team-page' target="_blank">
+    <a href='https://cefet-igor.github.io/Challenge-my-team-page' target="_blank" >
       Demo
     </a>
     <span> | </span>
-    <a href="https://github.com/CEFET-Igor/Challenge-my-team-page" target="_blank">
+    <a href="https://github.com/CEFET-Igor/Challenge-my-team-page" target="_blank" >
       Solution
     </a>
     <span> | </span>
-    <a href="https://devchallenges.io/challenges/hhmesazsqgKXrTkYkt0U" target="_blank">
+    <a href="https://devchallenges.io/challenges/hhmesazsqgKXrTkYkt0U" target="_blank" >
       Challenge
     </a>
   </h3>
