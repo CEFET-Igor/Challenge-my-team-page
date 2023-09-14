@@ -38,18 +38,17 @@
 <a name="Overview"></a>
 ## Overview
 
-
 <a name="Descrição"></a>
 ### Descrição:
-Este projeto foi uma oportunidade emocionante de aplicar meu conhecimento e aprimorar minhas habilidades no mundo do desenvolvimento web.
+
+Neste projeto desenvolvido uma página estática que serve como uma apresentação visual de uma equipe de trabalho.
 
 <a name="Objetivo"></a>
 ### Objetivo:
 
-Aperfeiçoar minhas habilidades em HTML e CSS. Aprender a trabalhar com imagens e ferramentas responsivas.
+Meu objetivo principal neste projeto foi aprimorar minhas habilidades em HTML e CSS, e ao mesmo tempo, aprender a trabalhar com técnicas avançadas de design, como o uso eficaz de imagens e as poderosas ferramentas de layout responsivo, incluindo display: grid e display: flex.
 
-
-
+![Desktop](https://github.com/CEFET-Igor/Challenge-my-team-page/assets/113212275/721fa567-5ac7-4e52-a295-a238ccaabec1)
 
 
 <a name="Built With"></a>
