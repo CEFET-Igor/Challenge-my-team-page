@@ -150,4 +150,8 @@ footer a{
         grid-column-gap: 10px;
     }
 
+    main div.grid div.content img{
+        width: 20vw;
+    }
+
 }
