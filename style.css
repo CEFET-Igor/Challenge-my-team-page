@@ -86,6 +86,15 @@ main div.grid div.content img{
     width: 25vw;
 }
 
+main div.grid div.content h3{
+    font-family: Poppins;
+    font-size: max(min(4vw, 20px), 10px);
+    font-weight: 600;
+    line-height: 21px;
+    letter-spacing: 0em;
+    text-align: left;
+}
+
 
 main div.grid div.content p.vertical-text{
     position: absolute;
@@ -147,11 +156,15 @@ footer a{
 @media (max-width:400px){
     main{
         padding: 10px 0px;
-        grid-column-gap: 10px;
+        grid-column-gap: 0px;
     }
 
     main div.grid div.content img{
-        width: 20vw;
+        width: 35vw;
+    }
+
+    main div.grid div.content p.vertical-text{
+        transform: translate(90%, 0px);
     }
 
 }
