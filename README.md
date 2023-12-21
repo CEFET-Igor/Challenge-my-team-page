@@ -1,6 +1,6 @@
 <!-- Please update value in the {}  -->
 
-<h1 align="center">My Team Page Challenge</h1>
+<h1 align="center">Challenge - My Team Page</h1>
 
 <div align="center">
    Solution for a challenge from  <a href="http://devchallenges.io" target="_blank" >Devchallenges.io</a>.
@@ -41,15 +41,24 @@
 <a name="Descrição"></a>
 ### Descrição:
 
-Neste projeto desenvolvido uma página estática que serve como uma apresentação visual de uma equipe de trabalho.
+Desenvolvi esta página estática como parte de um desafio proposto pelo Devchallenges.io, focando em aprimorar minhas habilidades em HTML e CSS. A proposta era criar uma apresentação visual envolvente de uma equipe de trabalho, utilizando técnicas avançadas de design e implementando layouts responsivos.
 
 <a name="Objetivo"></a>
 ### Objetivo:
 
 Meu objetivo principal neste projeto foi aprimorar minhas habilidades em HTML e CSS, e ao mesmo tempo, aprender a trabalhar com técnicas avançadas de design, como o uso eficaz de imagens e as poderosas ferramentas de layout responsivo, incluindo display: grid e display: flex.
 
+- **Layout Responsivo com Grid e Flexbox:** Explorei as técnicas avançadas de design, incluindo o uso eficaz do display: grid e display: flex, para criar um layout responsivo que se adapta de forma elegante a diferentes dispositivos e tamanhos de tela.
+- **Apresentação Visual Impactante:** Priorizei o apelo visual, incorporando imagens de alta qualidade e aplicando uma estética atraente para destacar cada membro da equipe.
+- **Experiência de Usuário Aprimorada:** Busquei oferecer uma experiência de usuário aprimorada, garantindo que a navegação pela página fosse intuitiva e que a apresentação da equipe fosse clara e envolvente.
+
+### Desktop-version
+
 ![Desktop](https://github.com/CEFET-Igor/Challenge-my-team-page/assets/113212275/721fa567-5ac7-4e52-a295-a238ccaabec1)
 
+### Mobile-version
+
+![mobile-version3](https://github.com/CEFET-Igor/Challenge-my-team-page/assets/113212275/8b82aad0-4941-4534-b156-7588d6fd90a7)
 
 <a name="Built With"></a>
 ### Built With
